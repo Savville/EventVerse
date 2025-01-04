@@ -1,4 +1,4 @@
-# Avalanche-L1-Days
+# Avalanche Fundamentals
 
 This is a 5 day hands on Online Technical workshop where builders will learn and build on Avalanche.
 Starting 6th - 10th January 2025.

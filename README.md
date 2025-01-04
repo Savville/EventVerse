@@ -3,13 +3,13 @@
 This is a 5 day hands on Online Technical workshop where builders will learn and build on Avalanche.
 Starting 6th - 10th January 2025.
 
-**** Avalanche L1 Days Lineup Sessions!****
+**Avalanche L1 Days Lineup Sessions!**
 
 📅 **Schedule:** November 6th –10th (Daily at 11:00 am EAT)
 
 📍 **Where:** Google Meet
 
-🔗 **Meet Link:** Click here to join
+🔗 **Meet Link:** Click here to join https://calendar.app.google/BiwVgEvmGDtabEHP9
 
 📚 **Resources & Agenda:** Find the agenda, workshop details, recordings, and slides on Notion.
 
